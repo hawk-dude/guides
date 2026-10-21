@@ -90,7 +90,3 @@ Configure font settings in the Appearance panel or your `~/.config/niri/config` 
 ## Closing notes
 
 This guide is a concise checklist to get a polished Dank Linux desktop. For deeper customization, consult the Niri and Dank Linux docs linked above.
-
-If you'd like, I can also:
-- Expand a section into step-by-step dotfile examples.
-- Add sample `~/.config/niri` snippets for a complete setup.
